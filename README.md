@@ -1,6 +1,3 @@
-hqt
-===
-
 PyQt helper for houdini
 
-Read examples for help.
+Read hqt_example.py for help.
