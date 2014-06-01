@@ -3,8 +3,8 @@ PyQt helper for houdini
 
 by PaylWinex
 
-This script for help you to use PySide with Houdini.
-Main differences from default pyqt_houdini.py is:
+This script will help you use PySide with houdini.
+Main differences from default pyqt_houdini.py are:
 
   - opportunity to have several widgets open at the same time
   
