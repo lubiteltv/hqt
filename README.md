@@ -6,9 +6,15 @@ by PaylWinex
 This script for help you to use PySide with houdini.
 Main differences from default pyqt_houdini.py is:
 
-  oppurtunity to open several widgets in same time
+  - opportunity to have several widgets open at the same time
   
-  automaticly apply houdini-style ui design
+  - automaticly apply houdini-style ui design
 
 
-Read hqt_example.py for help.
+See hqt_example.py for details.
+
+
+Install:
+Just copy hqt.py to PYTHONPATH or PATH. For example:
+
+$HFS\python27\lib\site-packages\hqt.py
